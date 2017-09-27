@@ -16,5 +16,4 @@ Time and Classification:
   * 2 = Non-Fatal Injury
   * 3 = Fatal
 
-Look at the code and sample on how to geocode the spatial data in [Automatic Geocode using Python]
-(http://people.revoledu.com/kardi/tutorial/Python/Automatic+Geocoding+using+Python.html)
+Look at the code and sample on how to geocode the spatial data in [Automatic Geocode using Python](http://people.revoledu.com/kardi/tutorial/Python/Automatic+Geocoding+using+Python.html)
